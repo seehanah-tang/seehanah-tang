@@ -18,5 +18,5 @@ I'm an Applied Mathematics - Computer Science student at Brown University with a
 
 🏠 [My Personal Website]([url](https://seehanahtang.github.io/))\
 👥 [Linkedin Page]([url](https://www.linkedin.com/in/seehanah-tang/))\
-🎵 I'm a flutist in Brown University Orchestra!
+🎵 I'm a flutist in Brown University Orchestra (check us out [here]([url](https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1)https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1))!
 
