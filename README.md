@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm an Applied Mathematics - Computer Science student at Brown University with an interest in the intersection between machine learning and healthcare in CS. I'm looking to explore all sorts of different projects and enjoy learning new things. Feel free to reach out and connect with me!
 
-🏠 [My Personal Website]([url](https://seehanahtang.github.io/))\
-👥 [Linkedin Page]([url](https://www.linkedin.com/in/seehanah-tang/))\
-🎵 I'm a flutist in Brown University Orchestra (check us out [here]([url](https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1)https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1))!
+🏠 [My Personal Website](https://seehanahtang.github.io/)\
+👥 [Linkedin Page](https://www.linkedin.com/in/seehanah-tang/)\
+🎵 I'm a flutist in Brown University Orchestra (check us out [here](https://www.youtube.com/playlist?list=PLw0pLHFT40ys1yow07evb0_3sTMCDQzI1))!
 
